@@ -1,27 +1,27 @@
 {
-  "name": "millennials-to-snake-people-mozilla",
-  "version": "1.1.2",
-  "description": "Millennials to Snake People (for Firefox)",
+  "name": "terrorists-to-communists-mozilla",
+  "version": "1.0.0",
+  "description": "Terrorists to Communists (for Firefox)",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pselle/millennials-to-snake-people.git"
+    "url": "git@github.com:ChimeraCoder/terrorists-to-communists.git"
   },
   "keywords": [
-    "millennials",
-    "snake",
-    "people",
+    "terrorism",
+    "communism",
+    "cloud",
     "firefox",
     "extensions"
   ],
-  "author": "Pam Selle",
+  "author": "Aditya Mukerjee",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pselle/millennials-to-snake-people/issues"
+    "url": "https://github.com/ChimeraCoder/terrorists-to-communists/issues"
   },
    "engines": {
     "firefox": ">=38.0a1",
     "fennec": ">=38.0a1"
   },
-  "homepage": "https://github.com/pselle/millennials-to-snake-people"
+  "homepage": "https://github.com/ChimeraCoder/terrorists-to-communists"
 }
