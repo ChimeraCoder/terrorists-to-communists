@@ -1,10 +1,17 @@
 # Terrorists to Communists
 
-The Red Scare returns, coming soon to a browser near you. McCarthyism, the Firefox/Chrome extension.
+The Red Scare returns, coming soon to a browser near you. McCarthyism, the browser extension.
 
-## Installation (Firefox)
 
-1. [Install from the Add-ons store](https://addons.mozilla.org/en-US/firefox/addon/terrorists-to-communists/) or [download the extension](https://github.com/ChimeraCoder/terrorists-to-communists/raw/master/%40terrorists-to-communists-1.0.0.xpi) and follow the remaining steps.
+## Installation
+
+[Download for Chrome](https://chrome.google.com/webstore/detail/terrorists-to-communists/pddpoicomcfeklpandjbocolimheohcn?hl=en-US&gl=US&authuser=1)
+
+[Download for Firefox](https://addons.mozilla.org/en-US/firefox/addon/terrorists-to-communists/)
+
+## Building from Source (Firefox)
+
+1. [download the extension](https://github.com/ChimeraCoder/terrorists-to-communists/raw/master/%40terrorists-to-communists-1.0.0.xpi) and follow the remaining steps.
 2. Open Firefox
 3. Click *Add-ons* from the *Tools* menu and select the *Extensions* tab.
 4. Drag-and-drop the XPI file onto the page.
