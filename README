@@ -9,7 +9,12 @@ The Red Scare returns, coming soon to a browser near you. McCarthyism, the brows
 
 [Download for Firefox](https://addons.mozilla.org/en-US/firefox/addon/terrorists-to-communists/)
 
-## Building from Source (Firefox)
+## Screenshots
+
+![](https://raw.githubusercontent.com/ChimeraCoder/terrorists-to-communists/master/2015-10-17-112058_1730x1190_scrot.png)
+![](https://raw.githubusercontent.com/ChimeraCoder/terrorists-to-communists/master/2015-10-20-002949_1478x606_scrot.png)
+### Building from Source (Firefox)
+![](https://raw.githubusercontent.com/ChimeraCoder/terrorists-to-communists/master/2015-10-20-003032_1538x569_scrot.png)
 
 1. [download the extension](https://github.com/ChimeraCoder/terrorists-to-communists/raw/master/%40terrorists-to-communists-1.0.0.xpi) and follow the remaining steps.
 2. Open Firefox
@@ -17,7 +22,8 @@ The Red Scare returns, coming soon to a browser near you. McCarthyism, the brows
 4. Drag-and-drop the XPI file onto the page.
 5. [Free your mind](https://news.google.com/news/search?tbm=nws&q=terrorism)
 
-## Thanks
+
+### Thanks
 
 To all the various people who make text replacement apps, [Pam Selle](https://github.com/pselle) for a similar extension, and above all, [Joseph McCarthy](https://en.wikipedia.org/wiki/Joseph_McCarthy) for his diligent, ceaseless efforts to rid the world of terrorism. 
 
